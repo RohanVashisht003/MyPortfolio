@@ -104,18 +104,11 @@ export const experience = [
       "During internship period i learned to develop websites using html, css and javascript.",
   },
   {
-    date: "October 2018 - February 2019",
+    date: "October 2019 - March 2020",
     company: "Ap2v Solutions Pvt. Ltd.",
-    position: "Linux Trainer",
+    position: "Trainee",
     description:
-      "As a junior trainer, my task was to train students on Linux OS.",
-  },
-  {
-    date: "October 2018 - February 2019",
-    company: "Ap2v Solutions Pvt. Ltd.",
-    position: "Linux Trainer",
-    description:
-      "As a junior trainer, my task was to train students on Linux OS.",
+      "In my initial days I worked there as a Linux trainer then I got the chance to work as a web developer, Worked on different projects as a trainee and gained a good understanding of different technologies like HTML, CSS, Javascript, etc. During this time period, i gained accolades from my seniors",
   },
   {
     date: "June-2021 - October-2022",
