@@ -97,13 +97,6 @@ export const experience = [
       "As an intern my task was to learn and understand the working of android os and to develop a new feature for the app",
   },
   {
-    date: "December 2018 - February 2019",
-    company: "Webreinvent Technologies Pvt. Ltd.",
-    position: "Web Developer Trainee",
-    description:
-      "During internship period i learned to develop websites using html, css and javascript.",
-  },
-  {
     date: "October 2019 - March 2020",
     company: "Ap2v Solutions Pvt. Ltd.",
     position: "Trainee",
@@ -111,14 +104,14 @@ export const experience = [
       "In my initial days I worked there as a Linux trainer then I got the chance to work as a web developer, Worked on different projects as a trainee and gained a good understanding of different technologies like HTML, CSS, Javascript, etc. During this time period, i gained accolades from my seniors",
   },
   {
-    date: "June-2021 - October-2022",
+    date: "June-2021 - August-2022",
     company: "Coding Ninjas",
     position: "CareerCamp Web Development Trainee",
     description:
       "Gained practical experience in web development by developing various projects. Learned different principles of web-development. Also worked as an assistant with my mentors in solving the doubts of other trainees.",
   },
   {
-    date: "July-2022 - October-2022",
+    date: "August-2022 - December-2022",
     company: "Coding Ninjas",
     position: "Teaching Assistant",
     description:
