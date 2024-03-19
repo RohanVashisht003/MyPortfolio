@@ -101,10 +101,10 @@ export const experience = [
     company: "Ap2v Solutions Pvt. Ltd.",
     position: "Trainee",
     description:
-      "In my initial days I worked there as a Linux trainer then I got the chance to work as a web developer, Worked on different projects as a trainee and gained a good understanding of different technologies like HTML, CSS, Javascript, etc. During this time period, i gained accolades from my seniors",
+      "I worked there as a freelancer, in my initial days I worked there as a Linux trainer then I got the chance to work as a web developer, Worked on different projects as a trainee and gained a good understanding of different technologies like HTML, CSS, Javascript, etc. During this time period, i gained accolades from my seniors",
   },
   {
-    date: "June-2021 - August-2022",
+    date: "June-2021 - September-2022",
     company: "Coding Ninjas",
     position: "CareerCamp Web Development Trainee",
     description:
