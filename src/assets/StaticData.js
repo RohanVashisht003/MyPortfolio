@@ -98,10 +98,17 @@ export const experience = [
   },
   {
     date: "October 2019 - March 2020",
-    company: "Ap2v Solutions Pvt. Ltd.",
-    position: "Freelancer",
+    company: "Freelancing",
+    position: "",
     description:
-      "I worked there as a freelancer, in my initial days I worked there as a Linux trainer then I got the chance to work as a web developer, Worked on different projects as a trainee and gained a good understanding of different technologies like HTML, CSS, Javascript, etc. During this time period, i gained accolades from my seniors",
+      "As a freelancer in my initial days I worked as a Linux trainer then I got the chance to work as a web developer, Worked on different projects as a trainee and gained a good understanding of different technologies like HTML, CSS, Javascript, etc. During this time period, i gained a good understanding of different technologies",
+  },
+  {
+    date: "June-2021 - August-2022",
+    company: "TechMahindra",
+    position: "Associate-Customer Support",
+    description:
+      "My responsibilities were to resolve customer inquiries, escalate the issues to concerned teams, and to ensure customer satisfaction.",
   },
   {
     date: "June-2021 - September-2022",
